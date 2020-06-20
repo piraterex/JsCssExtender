@@ -9,5 +9,5 @@ Inject Js and Css into websites in Chrome browser
 5. Enable Developer mode
 6. Load unpacked extension
 7. Choose the Directory
-8. Now create a folder in the same directory named "JsCssExtender"
-9. Place your Js and Css file in the name of domains like "youtube.com.js" for inject Js on youtube, or "youtube.com.css" for inject css in youtube.
+8. Now place your Js and Css file in the name of domains like "youtube.com.js" for inject Js on youtube, or "youtube.com.css" for inject css in youtube.
+For reference I have placed a youtube css file.
